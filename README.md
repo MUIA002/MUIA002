@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MUIA002
-- 👀 I’m interested in data analysis ,statistics and software engineering
+- 👀 I’m interested in data analysis ,statistics and data science 
 - 🌱 I’m currently learning bsc. statistics at the university of Nairobi.
 - 💞️ I’m looking to collaborate on coding and programming.
 - 📫 How to reach me phone number 0759262149, email. bernardmuia002@gmail.com
